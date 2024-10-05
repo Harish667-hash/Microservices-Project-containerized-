@@ -35,6 +35,8 @@ Create a folder
 
 `$ cd Docker-Engine`
 
+Can pick virtual machine from any Cloud service provider like AWS as well prefered
+
 Pick an ubuntu box from the Vagrant cloud and run
 
 `$ vagrant init <vagrant-box>`
